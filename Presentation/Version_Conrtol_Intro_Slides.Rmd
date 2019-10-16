@@ -1,0 +1,119 @@
+---
+title: "An Introduction to </br> Version Control"
+author: "Ross Whippo"
+date: "10/25/2019"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What is version control?
+
+- A way to manage changes to documents and data
+- A backup system for important files
+- A collaborative tool
+
+<center>
+<img src="Images/GitKraken_Main_screenshot.png" style="width:70%">
+</center>
+
+## Who should use version control?
+
+- Anyone working with numerical data and scripts that change through time
+
+<center>
+<img src="Images/Data_version1.png" style="width:90%">
+</center>
+
+## Who should use version control?
+
+- Anyone working with numerical data and scripts that change through time
+
+<center>
+<img src="Images/Data_version32.png" style="width:90%">
+</center>
+
+## Who should use version control?
+
+- Anyone working with numerical data and scripts that change through time
+
+<center>
+<img src="Images/Peeps.png" style="width:90%">
+</center>
+
+## How does version control work?
+
+- There is only ever a single version of a file active at a time
+
+
+<center>
+<img src="Images/Process_1.png" style="width:90%">
+</center>
+
+## How does version control work?
+
+- There is only ever a single version of a file active at a time
+- Previous versions are stored in 'change logs'
+- Updated versions of files are saved and then 'committed' via version control software
+
+
+<center>
+<img src="Images/Process_2.png" style="width:90%">
+</center>
+
+## How does version control work?
+
+- There is only ever a single version of a file active at a time
+- Previous versions are stored in 'change logs'
+- Updated versions of files are saved and then 'committed' via version control software
+- These versions are saved locally and/or 'pushed/pulled' to/from the cloud
+
+<center>
+<img src="Images/Process_3.png" style="width:90%">
+</center>
+
+## Considerations for version control
+
+- Works best for text or numerical files (.txt, .csv, .R)
+- Requires initial setup and software 
+- Can be scary!
+
+## What do you need to use version control?
+
+- A computer (duh)
+- Version control software (Git, Subversion)
+- An interface (RStudio, GitKraken)
+
+## Version control demonstration
+
+## Resources
+
+- Student software package (GitHub, GitKraken) <https://education.github.com/pack>
+
+
+## R Markdown
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
