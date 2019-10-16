@@ -86,11 +86,20 @@ knitr::opts_chunk$set(echo = FALSE)
 - Version control software (Git, Subversion)
 - An interface (RStudio, GitKraken)
 
+## What does version control look like?
+
+- Create repository ('repo') that will hold files
+- Make changes to your document and save
+- 'Commit' your changes via Git interface
+- 'Push' your changes to the cloud
+
 ## Version control demonstration
 
 ## Resources
 
 - Student software package (GitHub, GitKraken) <https://education.github.com/pack>
+- GitKraken Cheatsheet <https://www.gitkraken.com/resources/gitkraken-github-cheat-sheet>
+- GitKraken Resources <https://www.gitkraken.com/student-resources>
 
 
 ## R Markdown
