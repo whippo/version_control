@@ -97,16 +97,34 @@ knitr::opts_chunk$set(echo = FALSE)
 ## What does version control look like?
 
 - Create repository ('repo') that will hold files
-- Make changes to your document and save
-- 'Commit' your changes via Git interface
-- 'Push' your changes to the cloud
+
+<center>
+<img src="Images/Repo.png" style="width:100%">
+</center>
 
 ## What does version control look like?
 
-- Create repository ('repo') that will hold files
 - Make changes to your document and save
+
+<center>
+<img src="Images/Saveas.png" style="width:100%">
+</center>
+
+## What does version control look like?
+
 - 'Commit' your changes via Git interface
+
+<center>
+<img src="Images/Commit.png" style="width:100%">
+</center>
+
+## What does version control look like?
+
 - 'Push' your changes to the cloud
+
+<center>
+<img src="Images/Commit.png" style="width:100%">
+</center>
 
 ## Version control demonstration
 
@@ -115,18 +133,3 @@ knitr::opts_chunk$set(echo = FALSE)
 - Student software package (GitHub, GitKraken) <https://education.github.com/pack>
 - GitKraken Cheatsheet <https://www.gitkraken.com/resources/gitkraken-github-cheat-sheet>
 - GitKraken Resources <https://www.gitkraken.com/student-resources>
-
-
-
-## Slide with R Output
-
-```{r cars, echo = TRUE}
-summary(cars)
-```
-
-## Slide with Plot
-
-```{r pressure}
-plot(pressure)
-```
-
