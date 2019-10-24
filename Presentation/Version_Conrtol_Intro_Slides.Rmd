@@ -140,6 +140,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="Images/Kraken.png" style="width:50%">
 </center>
 
+
 ## Resources
 
 - This presentation: <br>
