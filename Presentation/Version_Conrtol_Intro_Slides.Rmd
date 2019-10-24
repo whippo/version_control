@@ -80,11 +80,26 @@ knitr::opts_chunk$set(echo = FALSE)
 - Requires initial setup and software 
 - Can be scary!
 
+<center>
+<img src="Images/Considerations.png" style="width:100%">
+</center>
+
 ## What do you need to use version control?
 
 - A computer (duh)
 - Version control software (Git, Subversion)
 - An interface (RStudio, GitKraken)
+
+<center>
+<img src="Images/Needs.png" style="width:100%">
+</center>
+
+## What does version control look like?
+
+- Create repository ('repo') that will hold files
+- Make changes to your document and save
+- 'Commit' your changes via Git interface
+- 'Push' your changes to the cloud
 
 ## What does version control look like?
 
