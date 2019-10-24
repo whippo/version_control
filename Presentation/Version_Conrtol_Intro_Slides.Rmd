@@ -123,13 +123,32 @@ knitr::opts_chunk$set(echo = FALSE)
 - 'Push' your changes to the cloud
 
 <center>
-<img src="Images/Commit.png" style="width:100%">
+<img src="Images/Push1.png" style="height:100%">
+</center>
+
+## What does version control look like?
+
+- 'Push' your changes to the cloud
+
+<center>
+<img src="Images/Push2.png" style="width:100%">
 </center>
 
 ## Version control demonstration
 
 ## Resources
 
-- Student software package (GitHub, GitKraken) <https://education.github.com/pack>
-- GitKraken Cheatsheet <https://www.gitkraken.com/resources/gitkraken-github-cheat-sheet>
-- GitKraken Resources <https://www.gitkraken.com/student-resources>
+- This presentation: <br>
+<font size = 3><https://github.com/whippo/version_control></font>
+- Slide images: <br>
+<font size = 3><https://www.dropbox.com/sh/otj8dweq67xdrb3/AADOLTEDHNmmzRYhNufKAODUa?dl=0></font>
+<br><br>
+- Student software package (GitHub, GitKraken): <br>
+<font size = 3><https://education.github.com/pack></font>
+- GitKraken Cheatsheet: <br>
+<font size = 3><https://www.gitkraken.com/resources/gitkraken-github-cheat-sheet></font>
+- GitKraken Resources: <br>
+<font size = 3><https://www.gitkraken.com/student-resources></font>
+- U Zurich RStudio/Git tutorial: <br>
+<font size = 3><http://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/></font>
+
