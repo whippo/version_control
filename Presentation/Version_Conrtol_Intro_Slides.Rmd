@@ -9,6 +9,9 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+<!--- To include the images in this presentation download the folder /Images_2019-10 from this Dropbox location: https://www.dropbox.com/sh/6cf7r83t501uru9/AABpDT5HYgGaTql3Xn1LVYUYa?dl=0
+and place into your working directory. Make sure all images are in a file named "Images_2019-10"--->
+
 ## What is version control?
 
 - A way to manage changes to documents and data
@@ -16,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - A collaborative tool
 
 <center>
-<img src="Images/GitKraken_Main_screenshot.png" style="width:70%">
+<img src="Images_2019-10/GitKraken_Main_screenshot.png" style="width:70%">
 </center>
 
 ## Who should use version control?
@@ -24,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Anyone working with numerical data and scripts that change through time
 
 <center>
-<img src="Images/Data_version1.png" style="width:90%">
+<img src="Images_2019-10/Data_version1.png" style="width:90%">
 </center>
 
 ## Who should use version control?
@@ -32,7 +35,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Anyone working with numerical data and scripts that change through time
 
 <center>
-<img src="Images/Data_version32.png" style="width:90%">
+<img src="Images_2019-10/Data_version32.png" style="width:90%">
 </center>
 
 ## Who should use version control?
@@ -40,7 +43,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Anyone working with numerical data and scripts that change through time
 
 <center>
-<img src="Images/Peeps.png" style="width:90%">
+<img src="Images_2019-10/Peeps.png" style="width:90%">
 </center>
 
 ## How does version control work?
@@ -49,7 +52,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 <center>
-<img src="Images/Process_1.png" style="width:90%">
+<img src="Images_2019-10/Process_1.png" style="width:90%">
 </center>
 
 ## How does version control work?
@@ -60,7 +63,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 <center>
-<img src="Images/Process_2.png" style="width:90%">
+<img src="Images_2019-10/Process_2.png" style="width:90%">
 </center>
 
 ## How does version control work?
@@ -71,7 +74,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - These versions are saved locally and/or 'pushed/pulled' to/from the cloud
 
 <center>
-<img src="Images/Process_3.png" style="width:90%">
+<img src="Images_2019-10/Process_3.png" style="width:90%">
 </center>
 
 ## Considerations for version control
@@ -81,7 +84,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Can be scary!
 
 <center>
-<img src="Images/Considerations.png" style="width:100%">
+<img src="Images_2019-10/Considerations.png" style="width:100%">
 </center>
 
 ## What do you need to use version control?
@@ -91,7 +94,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - An interface (RStudio, GitKraken)
 
 <center>
-<img src="Images/Needs.png" style="width:100%">
+<img src="Images_2019-10/Needs.png" style="width:100%">
 </center>
 
 ## What does version control look like?
@@ -99,7 +102,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Create repository ('repo') that will hold files
 
 <center>
-<img src="Images/Repo.png" style="width:100%">
+<img src="Images_2019-10/Repo.png" style="width:100%">
 </center>
 
 ## What does version control look like?
@@ -107,7 +110,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Make changes to your document and save
 
 <center>
-<img src="Images/Saveas.png" style="width:100%">
+<img src="Images_2019-10/Saveas.png" style="width:100%">
 </center>
 
 ## What does version control look like?
@@ -115,7 +118,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - 'Commit' your changes via Git interface
 
 <center>
-<img src="Images/Commit.png" style="width:100%">
+<img src="Images_2019-10/Commit.png" style="width:100%">
 </center>
 
 ## What does version control look like?
@@ -123,7 +126,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - 'Push' your changes to the cloud
 
 <center>
-<img src="Images/Push1.png" style="height:100%">
+<img src="Images_2019-10/Push1.png" style="height:100%">
 </center>
 
 ## What does version control look like?
@@ -131,13 +134,13 @@ knitr::opts_chunk$set(echo = FALSE)
 - 'Push' your changes to the cloud
 
 <center>
-<img src="Images/Push2.png" style="width:100%">
+<img src="Images_2019-10/Push2.png" style="width:100%">
 </center>
 
 ## Version control demonstration
 
 <center>
-<img src="Images/Kraken.png" style="width:50%">
+<img src="Images_2019-10/Kraken.png" style="width:50%">
 </center>
 
 
