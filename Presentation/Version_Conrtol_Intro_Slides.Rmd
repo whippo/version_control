@@ -2,7 +2,9 @@
 title: "An Introduction to </br> Version Control"
 author: "Ross Whippo"
 date: "10/25/2019"
-output: ioslides_presentation
+output:
+  ioslides_presentation: default
+  beamer_presentation: default
 ---
 
 ```{r setup, include=FALSE}
@@ -149,7 +151,7 @@ and place into your working directory. Make sure all images are in a file named 
 - This presentation: <br>
 <font size = 3><https://github.com/whippo/version_control></font>
 - Slide images: <br>
-<font size = 3><https://www.dropbox.com/sh/otj8dweq67xdrb3/AADOLTEDHNmmzRYhNufKAODUa?dl=0></font>
+<font size = 3><https://www.dropbox.com/sh/6cf7r83t501uru9/AABpDT5HYgGaTql3Xn1LVYUYa?dl=0></font>
 <br><br>
 - Student software package (GitHub, GitKraken): <br>
 <font size = 3><https://education.github.com/pack></font>
